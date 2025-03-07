@@ -8,7 +8,7 @@ const Register = () => {
     username: "",
     email: "",
     password: "",
-    role: "merchant",
+    role: "clerk",
     token: "",
   });
   const [message, setMessage] = useState(null);
